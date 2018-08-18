@@ -1,0 +1,44 @@
+body {
+	font: medium "Fira Sans", sans-serif;
+	width: 334px;
+}
+
+ul {
+	padding: 0;
+}
+
+li {
+	list-style: none;
+}
+
+h3 {
+	font-size: 1.5em;
+	padding: 15px 0;
+	margin: 0;
+}
+
+.interesting-content {
+	font-style: italic;
+}
+
+.bold-content {
+	font-weight: bold;
+}
+
+.container {
+	border: 2px solid #EEE;
+	padding: 5px 15px;
+	margin: 10px 0;
+}
+
+.shadow {
+	box-shadow: 8px 8px #E9E9E9;
+}
+
+.round-corners {
+	border-radius: 15px;
+}
+
+.citation {
+	font-size: .5em;
+}
